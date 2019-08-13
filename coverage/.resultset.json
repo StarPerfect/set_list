@@ -188,7 +188,41 @@
         1,
         null
       ],
-      "/Users/starperfect/turing/mod2/lessons/set_list/app/models/song.rb": [
+      "/Users/starperfect/turing/mod2/lessons/set_list/spec/models/artist_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/starperfect/turing/mod2/lessons/set_list/app/models/artist.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
         1,
         null,
         null
@@ -196,6 +230,35 @@
       "/Users/starperfect/turing/mod2/lessons/set_list/app/models/application_record.rb": [
         1,
         1,
+        null
+      ],
+      "/Users/starperfect/turing/mod2/lessons/set_list/spec/models/song_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/starperfect/turing/mod2/lessons/set_list/app/models/song.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/starperfect/turing/mod2/lessons/set_list/app/controllers/songs_controller.rb": [
@@ -211,6 +274,6 @@
         null
       ]
     },
-    "timestamp": 1565650986
+    "timestamp": 1565717248
   }
 }
